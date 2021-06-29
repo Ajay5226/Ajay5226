@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajay5226" alt="ajay5226" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ajayshah5226" target="blank"><img src="https://img.shields.io/twitter/follow/ajayshah5226?logo=twitter&style=for-the-badge" alt="ajayshah5226" /></a> </p>
-
 - 🌱 I’m currently learning **"How to Code in different languages"**
 
 <h3 align="left">Connect with me:</h3>
